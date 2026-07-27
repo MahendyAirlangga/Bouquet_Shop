@@ -1,4 +1,4 @@
-import Button from "../components/button";
+import Button from "../components/Button";
 import ProductCard from "../components/ProductCard";
 import { Link } from "react-router-dom";
 import { useState } from "react";
